@@ -30,8 +30,3 @@ while True:
     oled.text("H = %s %%" % sensor.humidity(), 1, 30, 1)
     oled.text("N = %s " % n, 1, 40, 1)
     oled.show()
-
-
-
-
-
